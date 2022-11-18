@@ -5,7 +5,7 @@ These are the notes from a meeting with the frontend developer that describe wha
 
 ## API Endpoints
 
-| **Request** | **Endpoint**                   | **Descritption**           | **CULR**  |
+| **Request** | **Endpoint**                   | **Descritption**           | **CURL**  |
 |:-----------:|:------------------------------:|:--------------------------:|:---------:|
 | get         | 127.0.0.1:3000/products/       | Index to list All products |           |
 | get         | 127.0.0.1:3000/products/:id    | Get product by Id          |           |
